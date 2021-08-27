@@ -1,0 +1,13 @@
+server:
+  port: 8888
+
+spring:
+  application:
+    name: server
+  profiles:
+    active: dev
+
+shiro:
+  enabled: false
+  web:
+    enabled: false
