@@ -16,6 +16,7 @@
         <module>module-web</module>
         <module>server</module>
         <module>module-shiro</module>
+        <module>module-scheduled</module>
     </modules>
 
     <properties>
